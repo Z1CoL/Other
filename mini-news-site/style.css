@@ -1,0 +1,45 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: azure;
+}
+
+.card {
+  margin-top: 30px;
+  width: 700px;
+  height: 300px;
+  background-color: whitesmoke;
+  background-size: cover;
+  border-radius: 20px;
+  display: flex;
+  overflow: hidden;
+}
+.descriptions {
+}
+
+h3 {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 5px;
+}
+
+p {
+  font-size: large;
+  margin: 20px;
+}
+
+.sports-btn {
+  width: 70px;
+  height: 30px;
+}
+
+.politics-btn {
+  width: 70px;
+  height: 30px;
+}
